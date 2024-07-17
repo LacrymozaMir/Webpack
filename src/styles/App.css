@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 50vw;
+    font-family: 'Futura PT';
+}
+
+.container {
+    border: 1px solid gray;
+    font-size: 30px;
+    font-style: 400;
+    text-align: center;
+}
